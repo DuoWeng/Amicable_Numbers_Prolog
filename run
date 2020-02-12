@@ -1,0 +1,24 @@
+| ?- [seven].
+compiling /home/cpl/seven.pl for byte code...
+/home/cpl/seven.pl compiled, 7 lines read - 2268 bytes written, 4 ms
+
+yes
+{3}
+| ?- amicable_num(220,284).
+
+yes
+{3}
+| ?- amicable_num(1184,1210).
+
+yes
+{3}
+| ?- amicable_num(2620,2924).
+
+yes
+{3}
+| ?- amicable_num(5020,5564).
+
+(4 ms) yes
+{3}
+| ?- 
+

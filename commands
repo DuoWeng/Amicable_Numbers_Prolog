@@ -1,0 +1,6 @@
+gprolog
+[seven].
+amicable_num(220,284).
+amicable_num(1184,1210).
+amicable_num(2620,2924).
+amicable_num(5020,5564).
